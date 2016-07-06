@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>-142.56400547903678</longitude>
+            <latitude>3.773075888977303</latitude>
+            <altitude>1.5390915796907369E7</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>1.2436667243142357E7</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>earthquake:deathslvl4_tsunami</name>
+            <LookAt>
+                <longitude>-142.56400547903678</longitude>
+                <latitude>3.773075888977303</latitude>
+                <altitude>1.5390915796907369E7</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>1.2436667243142357E7</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152d">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152d</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;30&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Republic of Chile&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chile&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.6601707E7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;244500.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2002.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5. Emerging region: G20&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3. Upper middle income&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;152&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;152&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHL&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;South America&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Americas&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;South America&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Latin America &amp; Caribbean&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-70.1889308741865</longitude>
+                    <latitude>-36.66960415710996</latitude>
+                    <altitude>5212103.890856003</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>4211653.327366574</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>-71.67094511937049,-37.34183186785774</coordinates>
+                    </Point>
+                    <MultiGeometry>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>-68.63401022758316,-52.63637045887437 -68.6333499999999,-54.869499999999945 -67.56243999999992,-54.87000999999996 -66.95992000000004,-54.896809999999974 -67.29102999999989,-55.301239999999915 -68.14862999999986,-55.61182999999996 -68.63999081081181,-55.58001799908689 -69.23209999999997,-55.49905999999991 -69.95809,-55.198429999999995 -71.00567999999993,-55.05383000000003 -72.2639,-54.49513999999995 -73.28519999999995,-53.95751999999989 -74.66252999999998,-52.83748999999993 -73.83809999999994,-53.047429999999984 -72.43417999999994,-53.71540000000001 -71.10773000000003,-54.074329999999904 -70.5917799999998,-53.61582999999994 -70.26747999999995,-52.93122999999999 -69.34564999999989,-52.518299999999925 -68.63401022758316,-52.63637045887437</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>-68.21991309271124,-21.494346612231837 -67.82817989772266,-22.872918796482182 -67.10667355006362,-22.7359245744764 -66.98523393417764,-22.98634856536283 -67.32844295924414,-24.025303236590915 -68.41765296087613,-24.518554782816878 -68.38600114609736,-26.185016371365236 -68.59479977077268,-26.506908868111267 -68.2955415513704,-26.89933969493579 -69.00123491074828,-27.521213881136134 -69.65613033718316,-28.459141127233693 -70.01355038112987,-29.36792286551855 -69.91900834825194,-30.336339206668313 -70.53506893581945,-31.36501026787029 -70.07439938015364,-33.09120981214804 -69.81477698431922,-33.27388600029985 -69.81730912950147,-34.193571465798286 -70.3880494859491,-35.16968759535945 -70.36476925320167,-36.005088799789945 -71.1218806627098,-36.65812387466234 -71.11862504747543,-37.5768274879472 -70.81466427273472,-38.55299529394074 -71.41351660834906,-38.916022230791114 -71.68076127794646,-39.80816415787807 -71.91573401557756,-40.83233936947073 -71.74680375841547,-42.051386407235995 -72.14889807807853,-42.25488819760139 -71.91542395698391,-43.40856454851742 -71.46405615913051,-43.78761117937833 -71.79362260607195,-44.20717213315611 -71.32980078803621,-44.40752166115169 -71.22277889675973,-44.784242852559416 -71.65931555854533,-44.97368865334144 -71.55200944689125,-45.56073292417713 -71.91725847033021,-46.8848381487918 -72.44735531278027,-47.73853281025353 -72.33116085477195,-48.244238376661826 -72.64824744331494,-48.87861825947679 -73.41543575712004,-49.31843637471296 -73.32805091011448,-50.37878508890987 -72.97574683296463,-50.74145029073431 -72.30997351753237,-50.677009779666356 -72.32940385607404,-51.42595631287241 -71.91480383979635,-52.009022305865926 -69.49836218939609,-52.14276091263725 -68.57154537624135,-52.29944385534626 -69.46128434922664,-52.29195077266393 -69.94277950710614,-52.53793059037326 -70.84510169135453,-52.899200528525725 -71.00633216010525,-53.83325204220135 -71.42979468452094,-53.85645476030039 -72.55794287788487,-53.53141000118446 -73.70275672066288,-52.835069268607256 -73.70275672066288,-52.8350700760515 -74.94676347522517,-52.26275358841903 -75.26002600777852,-51.629354750373224 -74.97663245308982,-51.04339568461569 -75.4797541978835,-50.37837167745156 -75.60801510283196,-48.6737728818718 -75.18276974150214,-47.71191944762316 -74.1265809801047,-46.9392534319951 -75.64439531116545,-46.64764332457203 -74.69215369332306,-45.76397633238098 -74.35170935738427,-44.103044122087894 -73.2403560045152,-44.454960625995625 -72.71780392117978,-42.38335580827899 -73.38889990913825,-42.117532240569574 -73.70133561877486,-43.365776462579745 -74.33194312203258,-43.22495818458441 -74.01795711942717,-41.794812920906836 -73.67709937202997,-39.942212823243125 -73.21759253609068,-39.258688653318515 -73.50555945503706,-38.28288258235108 -73.58806087919109,-37.15628468195602 -73.1667170884993,-37.12378020604436 -72.55313696968173,-35.508840020491036 -71.86173214383257,-33.90909270603153 -71.43845048692992,-32.41889942803083 -71.66872066922244,-30.92064462659252 -71.37008256700773,-30.095682061485007 -71.48989437527646,-28.861442152625912 -70.90512386746158,-27.6403797340012 -70.72495398627598,-25.705924167587213 -70.40396582709505,-23.628996677344546 -70.09124589708068,-21.393319187101227 -70.16441972520599,-19.756468194256186 -70.37257239447774,-18.347975355708883 -69.85844356960581,-18.092693780187034 -69.590423753524,-17.58001189541929 -69.10024695501943,-18.260125420812656 -68.96681840684184,-18.981683444904093 -68.44222510443095,-19.405068454671422 -68.75716712103372,-20.372657972904477 -68.21991309271124,-21.494346612231837</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </MultiGeometry>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152c">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152c</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;31&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CH1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;People's Republic of China&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;China&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.33861297E9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7973000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2010.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3. Emerging region: BRIC&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3. Upper middle income&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;156&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;156&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;CHN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Eastern Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;East Asia &amp; Pacific&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>96.60035182017481</longitude>
+                    <latitude>39.752514607770195</latitude>
+                    <altitude>7708240.7609797</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>6228662.84497469</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>103.86536525665788,36.609432380044694</coordinates>
+                    </Point>
+                    <MultiGeometry>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>110.33918786015155,18.678395087147607 109.47520958866372,18.197700913968617 108.65520796105616,18.5076819930714 108.62621748254045,19.367887885001977 109.11905561730802,19.821038519769388 110.21159874882287,20.101253973872076 110.78655073450224,20.07753449145008 111.01005130416465,19.695929877190736 110.57064660038682,19.255879218009312 110.33918786015155,18.678395087147607</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>127.65740726126242,49.76027049417294 129.39781782442046,49.44060008401544 130.5822933289824,48.72968740497612 130.98728152885386,47.790132351261406 132.50667199109952,47.78896963153488 133.37359581922803,48.18344167743493 135.02631147678673,48.47822988544391 134.50081383681064,47.57843984637785 134.11236209527263,47.21246735288673 133.7696439963129,46.11692698829907 133.09712690646646,45.144066473972174 131.8834542176596,45.32116160743644 131.0252120301561,44.96795319272158 131.28855512911557,44.111519680348266 131.14468794161488,42.92998973242695 130.63386640840983,42.90301463477056 130.64001590385246,42.39500946712528 129.99426720593326,42.9853868678438 129.5966687358795,42.4249817978546 128.05221520397234,41.99428457291799 128.20843305879075,41.46677155208255 127.34378299368305,41.50315176041596 126.8690832866499,41.81656932226616 126.18204511932944,41.10733612727637 125.07994184784062,40.569823716792456 124.26562462778534,39.92849335383414 122.86757042856104,39.63778758397626 122.13138797413094,39.17045176854464 121.05455447803288,38.89747101496292 121.5859949077225,39.36085358332414 121.37675703337268,39.75026133885953 122.16859500538104,40.42244253189605 121.64035851449356,40.94638987890332 120.76862877816197,40.5933881699176 119.63960208544907,39.89805593521422 119.02346398323303,39.2523330755111 118.04274865119791,39.20427399347969 117.53270226447708,38.7376358098841 118.05969852098971,38.06147553156106 118.87814985562838,37.897325344385905 118.91163618375353,37.44846385349874 119.70280236214208,37.15638865818508 120.82345747282366,37.87042776137798 121.71125857959797,37.48112335870718 122.35793745329849,37.45448415786069 122.51999474496583,36.930614325501836 121.10416385303304,36.65132904718044 120.63700890511458,36.11143952081113 119.66456180224608,35.609790554337735 119.1512081238586,34.909859117160465 120.22752485563373,34.36033193616862 120.6203690939166,33.37672272392513 121.22901411345023,32.46031871187719 121.90814578663006,31.69217438407469 121.89191938689035,30.949351508095106 121.26425744027333,30.676267401648715 121.50351932178475,30.142914943964257 122.0921138855891,29.832520453403163 121.93842817595308,29.01802236583481 121.68443851123848,28.225512600206685 121.12566124886646,28.135673122667185 120.39547326058235,27.053206895449392 119.58549686083958,25.740780544532612 118.65687137255455,24.547390855400238 117.28160647997086,23.624501451099718 115.89073530483515,22.782873236578098 114.76382734584624,22.66807404224167 114.15254682826568,22.223760077396207 113.80677981980077,22.54833974862143 113.24107791550162,22.05136749927047 111.84359215703248,21.550493679281516 110.78546552942416,21.397143866455338 110.44403934127169,20.341032619706397 109.88986128137358,20.282457383703445 109.62765506392466,21.008227037026728 109.86448815311834,21.395050970947523 108.52281294152445,21.71521230721183 108.050180291783,21.552379869060104 107.04342003787266,21.811898912029903 106.56727339073538,22.218204860924743 106.7254032735485,22.79426788989838 105.81124718630522,22.976892401617903 105.32920942588666,23.352063300056983 104.4768583516645,22.819150092046925 103.50451460166053,22.70375661873922 102.70699222210018,22.708795070887703 102.17043582561357,22.464753119389343 101.65201785686159,22.31819875740956 101.80311974488293,21.174366766845054 101.27002566936002,21.20165192309517 101.18000532430759,21.43657298429406 101.15003299357826,21.849984442629022 100.41653771362738,21.558839423096657 99.98348921102158,21.74293671313646 99.24089887898722,22.118314317304566 99.53199222208744,22.9490388046126 98.89874922078283,23.142722072842588 98.6602624857558,24.063286037690006 97.60471967976204,23.897404690033056 97.72460900267916,25.083637193293043 98.67183800658924,25.918702500913497 98.71209394734458,26.74353587494025 98.68269005737054,27.508812160750665 98.24623091023338,27.74722138112918 97.91198774616944,28.335945136014374 97.32711388549004,28.261582749946342 96.24883344928784,28.41103099213447 96.58659061074755,28.83097951915437 96.11767866413103,29.45280202892252 95.40480228066465,29.03171662039216 94.56599043170294,29.277438055939967 93.41334760943269,28.64062938080724 92.50311893104364,27.89687632904645 91.6966565286967,27.771741848251622 91.25885379431989,28.04061432546635 90.73051395056783,28.06495392507574 90.01582889197121,28.296438503527185 89.47581017452117,28.042758897406372 88.8142484883206,27.299315904239393 88.73032596227856,28.08686473236756 88.12044070836996,27.87654165293958 86.95451704300066,27.97426178640353 85.82331994013154,28.20357595469875 85.01163821812307,28.642773952747376 84.23457970575018,28.839893703724698 83.89899295444675,29.32022614187764 83.33711510613719,29.463731594352197 82.32751264845089,30.115268052688208 81.5258044778748,30.422716986608663 81.11125613802929,30.183480943313413 79.72136681510713,30.882714748654735 78.73889448437401,31.51590607352705 78.45844648632604,32.61816437431273 79.17612877799556,32.483779812137755 79.20889163606856,32.994394639613745 78.81108646028574,33.506198025032404 78.91226891471322,34.321936346975775 77.83745079947462,35.49400950778781 76.19284834178572,35.89840342868786 75.89689741405019,36.66680613865188 75.158027785141,37.13303091078916 74.98000247589542,37.419990139305895 74.82998579295216,37.99000702570146 74.8648157083168,38.3788463404816 74.2575142760227,38.60650686294349 73.92885216664641,38.505815334622724 73.67537926625485,39.43123688410557 73.96001305531846,39.66000844986172 73.82224368682833,39.89397349706314 74.77686242055606,40.36642527929163 75.46782799673073,40.56207225194868 76.52636803579745,40.42794607193514 76.90448449087714,41.06648590754966 78.18719689322606,41.185315863604814 78.54366092317528,41.58224254003872 80.11943037305142,42.123940741538235 80.25999026888533,42.34999929459909 80.18015018099439,42.92006785742686 80.86620649610123,43.180362046881015 79.96610639844144,44.91751699480463 81.9470707539181,45.31702749285316 82.45892581576905,45.539649563166506 83.18048383986056,47.33003123635075 85.16429039911324,47.00095571551611 85.7204838398707,47.45296946877309 85.76823286330838,48.4557506373969 86.59877648310336,48.54918162698061 87.3599703307627,49.21498078062916 87.75126427607668,49.29719798440547 88.0138322285517,48.5994627956006 88.85429772334678,48.069081732773014 90.28082563676392,47.693549099307916 90.97080936072499,46.888146063822944 90.58576826371834,45.7197160914875 90.94553958533433,45.28607330991025 92.13389082231825,45.115075995456436 93.48073367714133,44.975472113620015 94.68892866412537,44.35233185482846 95.30687544147153,44.24133087826547 95.76245486855672,43.31944916439463 96.34939578652782,42.72563528092866 97.451757440178,42.74888967546008 99.51581749878002,42.524691473961695 100.8458655131083,42.663804429691425 101.83304039917996,42.51487295182628 103.31227827353482,41.90746816666763 104.52228193564903,41.90834666601663 104.96499393109346,41.59740957291635 106.12931562706169,42.1343277044289 107.744772576938,42.481515814781915 109.24359581913146,42.51944631608416 110.41210330611531,42.87123362891103 111.12968224492025,43.40683401140018 111.8295878438814,43.74311839453949 111.66773725794323,44.07317576758771 111.34837690637946,44.45744171811006 111.87330610560028,45.10207937273512 112.43606245325887,45.01164561622426 113.46390669154422,44.80889313412712 114.46033165899607,45.33981679949389 115.98509647020015,45.72723501238602 116.71786828009888,46.388202419615254 117.42170128791426,46.67273285581422 118.87432579963874,46.80541209572365 119.66326989143877,46.69267995867895 119.77282392789758,47.04805878355015 118.86657433479499,47.74706004494621 118.06414269416675,48.06673045510374 117.29550744025747,47.6977090521074 116.30895267137325,47.853410142602826 115.74283735561576,47.72654450132629 115.48528201707305,48.135382595403456 116.19180219936763,49.13459809019906 116.67880089728621,49.888531399121405 117.87924441942639,49.51098338479696 119.28846072802585,50.14288279886205 119.27936567594239,50.582907619827296 120.18204959521697,51.64356639261803 120.73819135954201,51.964115302124554 120.725789015792,52.51622630473082 120.1770886577169,52.75388621684121 121.00308475147025,53.25140106873124 122.24574791879289,53.431725979213695 123.57150678924089,53.45880442973464 125.06821129771046,53.161044826868846 125.9463489116462,52.79279857035695 126.564399041857,51.7842554795327 126.93915652883769,51.35389415140591 127.28745568248493,50.73979726826545 127.65740726126242,49.76027049417294</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </MultiGeometry>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152b">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152b</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;58&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GB1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;U.K.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GB&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom of Great Britain and Northern Ireland&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United Kingdom&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.2262E7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1977704.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2011.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2009.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1. Developed region: G7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1. High income: OECD&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GB&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;826&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;826&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GB&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;GBR&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Europe&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Europe&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Northern Europe&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Europe &amp; Central Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-3.434710816583049</longitude>
+                    <latitude>54.38509325384808</latitude>
+                    <altitude>1401463.8912414473</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>1132456.3332450693</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>-2.6579929793856314,53.88335871484815</coordinates>
+                    </Point>
+                    <MultiGeometry>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>-5.661948614921897,54.55460317648385 -6.1978848942209765,53.86756500916334 -6.953730231137996,54.073702297575636 -7.572167934591079,54.05995636658599 -7.3660306461787854,54.595840969452695 -7.572167934591079,55.1316222194549 -6.733847011736145,55.1728600124238 -5.661948614921897,54.55460317648385</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>-3.0050048486352807,58.63500010846633 -4.073828497728016,57.55302480735526 -3.0550017968776615,57.69001902936094 -1.9592805647769183,57.68479970969952 -2.2199881656893012,56.87001740175353 -3.119003058271119,55.973793036515474 -2.085009324543023,55.90999848085127 -2.005675679673857,55.80490285035023 -1.11499101399221,54.624986477265395 -0.4304849918542004,54.46437612570216 0.18498131674203933,53.32501414653103 0.4699768408317766,52.92999949809197 1.681530795914739,52.739520168664 1.5599878271643774,52.09999848083601 1.050561557630914,51.806760565795685 1.4498653499503007,51.28942780212196 0.5503336930455021,50.765738837275876 -0.7875174625586396,50.77498891865622 -2.4899975244143775,50.50001862243124 -2.956273972984036,50.696879991247016 -3.6174480859423284,50.22835561787272 -4.542507900399244,50.341837063185665 -5.245023159191135,49.95999990498109 -5.776566941745301,50.15967763935683 -4.309989793301838,51.21000112568916 -3.414850633142123,51.42600861266925 -3.4227194671083225,51.42684816740609 -4.984367234710874,51.593466091510976 -5.2672957015088855,51.991400458374585 -4.2223465641348525,52.301355699261364 -4.770013393564113,52.840004991255626 -4.5799991520269145,53.49500377055517 -3.093830673788659,53.404547400669685 -3.0920796370471066,53.40444082296355 -2.945008510744344,53.984999701546684 -3.614700825433033,54.600936773292574 -3.6300054589893307,54.615012925833014 -4.844169073903004,54.790971177786844 -5.082526617849226,55.06160065369937 -4.719112107756644,55.50847260194348 -5.047980922862109,55.78398550070753 -5.58639767091114,55.31114614523682 -5.644998745130181,56.275014960344805 -6.149980841486354,56.78500967063354 -5.786824713555291,57.81884837506465 -5.009998745127575,58.63001333275005 -4.211494513353557,58.55084503847917 -3.0050048486352807,58.63500010846633</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </MultiGeometry>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152a">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-152a</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;73&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indo.&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;INDO&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Republic of Indonesia&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.40271522E8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;914600.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2010.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4. Emerging region: MIKT&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4. Lower middle income&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ID&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;360&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;360&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ID&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IDN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;South-Eastern Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;East Asia &amp; Pacific&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>118.30670956447388</longitude>
+                    <latitude>-2.647981165064081</latitude>
+                    <altitude>6441919.4783257535</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>5205408.8279238725</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>101.55426956007953,-0.4131305965893517</coordinates>
+                    </Point>
+                    <MultiGeometry>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>120.71560875863045,-10.239581394087864 120.2950142762069,-10.258649997603527 118.96780846565471,-9.557969252158031 119.90030968636162,-9.361340427287516 120.42575564990543,-9.665921319215798 120.77550174365675,-9.969675388227458 120.71560875863045,-10.239581394087864</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>124.43595014861941,-10.140000909061442 123.57998172413673,-10.359987481327963 123.45998904835503,-10.239994805546175 123.55000939340746,-9.90001555749798 123.98000898650812,-9.290026950724695 124.96868248911622,-8.892790215697048 125.07001997284064,-9.089987481322837 125.0885201356011,-9.393173109579322 124.43595014861941,-10.140000909061442</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>117.90001834520777,-8.095681247594925 118.2606164897405,-8.362383314653329 118.87845991422213,-8.28068287519983 119.1265067892231,-8.705824883665073 117.97040164598931,-8.906639499551261 117.27773074754904,-9.040894870645559 116.74014082241663,-9.03293670007264 117.08373742072533,-8.457157891476541 117.63202436734215,-8.449303073768192 117.90001834520777,-8.095681247594925</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>122.90353722543611,-8.094234307490737 122.75698286345633,-8.64980763106064 121.25449059457011,-8.933666273639943 119.92439090380961,-8.810417982623875 119.92092858284613,-8.444858900591072 120.71509199430758,-8.236964613480865 121.34166873584658,-8.536739597206022 122.00736453663043,-8.460620212440162 122.90353722543611,-8.094234307490737</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>108.62347863162896,-6.777673841990676 110.53922732955331,-6.877357679881683 110.75957563684594,-6.465186455921753 112.61481123255638,-6.946035658397591 112.97876834518812,-7.59421314863458 114.47893517462117,-7.776527601760279 115.70552697150109,-8.370806573116866 114.56451134649652,-8.751816908404834 113.4647335144609,-8.348947442257426 112.55967247930104,-8.376180922075164 111.52206139531248,-8.302128594600958 110.58614953007432,-8.122604668819022 109.4276672709552,-7.740664157749762 108.69365522668133,-7.641600437046222 108.27776329959633,-7.766657403192582 106.45410200401616,-7.354899590690948 106.28062422081231,-6.924899997590202 105.36548628135554,-6.85141611087117 106.05164594932708,-5.8959188777945 107.2650085795402,-5.954985039904059 108.0720910990747,-6.345762220895239 108.48684614464926,-6.421984958525769 108.62347863162896,-6.777673841990676</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>134.72462446506668,-6.214400730009288 134.21013390516893,-6.895237725454706 134.11277550673103,-6.142467136259015 134.2903357280858,-5.783057549669039 134.4996252788679,-5.445042006047899 134.72700158095213,-5.73758228925216 134.72462446506668,-6.214400730009288</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>127.24921512258894,-3.45906503663889 126.87492272349888,-3.7909827612495803 126.18380211802733,-3.607376397316557 125.98903364471929,-3.1772734513513257 127.00065148326499,-3.1293177221844104 127.24921512258894,-3.45906503663889</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>130.4713440288518,-3.09376433676762 130.8348360535928,-3.858472181822762 129.99054650280814,-3.4463009578628174 129.15524865124243,-3.362636813982249 128.59068362845366,-3.428679294451257 127.89889122936236,-3.393435967628193 128.1358793478528,-2.8436504044749142 129.37099775606092,-2.802154229344552 130.4713440288518,-3.09376433676762</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>134.1433679546478,-1.1518673641035946 134.42262739475305,-2.769184665542383 135.4576029806947,-3.3677527807791137 136.2933142437188,-2.30704233155609 137.44073774632753,-1.703513278819372 138.3297274110448,-1.7026864559026507 139.18492068904297,-2.051295668143638 139.92668419816042,-2.4090516089002847 141.00021040259188,-2.6001510555156244 141.01705691951904,-5.859021905138022 141.0338517600139,-9.117892754760419 140.14341515519257,-8.297167657100957 139.12776655492812,-8.096042982620943 138.88147667862498,-8.380935153846096 137.61447391169284,-8.411682631059762 138.0390991558352,-7.597882175327356 138.6686214540148,-7.320224704623072 138.40791385310237,-6.232849216337485 137.92783979711086,-5.393365573756 135.98925011611348,-4.546543877789048 135.16459760959972,-4.462931410340772 133.6628804871979,-3.5388534480975267 133.3677047059468,-4.024818617370315 132.98395551974735,-4.1129786108602815 132.756940952689,-3.7462826473171305 132.75378869031923,-3.3117872046070715 131.9898043153162,-2.8205510392404562 133.0668445171435,-2.460417982598443 133.78003095920351,-2.47984832114021 133.69621178602617,-2.2145415177536876 132.23237348849423,-2.2125261368943256 131.8362219585447,-1.6171619604595975 130.94283979708283,-1.4325220678807966 130.51955814018007,-0.9377202286860751 131.86753787651364,-0.6954611141018177 132.3801164084168,-0.3695378556369775 133.98554813042844,-0.7802104630604418 134.1433679546478,-1.1518673641035946</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>125.24050052297159,1.4198361271176054 124.43703535369738,0.4278811710589707 123.68550499887672,0.2355931665008768 122.7230831238729,0.4311367862933366 121.05672488818911,0.38121735269945134 120.18308312386276,0.23724681233422018 120.04086958219548,-0.5196578914448509 120.93590538949073,-1.4089059383233717 121.47582075407618,-0.9559620092851162 123.34056481332848,-0.6156727026430815 123.2583992859845,-1.0762130672283376 122.82271528533161,-0.9309506160558811 122.38852990121538,-1.516858005381124 121.50827355355548,-1.9044829240024228 122.4545723816843,-3.1860584448408815 122.27189619353257,-3.5295000138526973 123.17096276254657,-4.683693129091708 123.16233279835379,-5.3406039363859605 122.62851525277873,-5.634591159694494 122.23639448454807,-5.282933037948283 122.71956912647707,-4.46417164471579 121.73823367725439,-4.8513314754465 121.48946333220127,-4.574552504091216 121.61917117725389,-4.188477878438675 120.89818159391771,-3.602105401222829 120.97238895068878,-2.62764291749491 120.30545291552991,-2.9316036922357256 120.39004723519176,-4.097579034037224 120.43071658740539,-5.528241062037779 119.79654341031952,-5.6734001603456505 119.36690555224496,-5.379878024927805 119.65360639860015,-4.459417412944958 119.49883548388598,-3.4944117163265105 119.07834435432702,-3.487021986508765 118.7677689962529,-2.801999200047689 119.18097374885869,-2.1471037736127982 119.32339399625508,-1.353147067880471 119.82599897672586,0.1542544620734958 120.03570193896635,0.5664773624658039 120.8857792501677,1.309222723796836 121.666816847827,1.0139435896810767 122.92756676645186,0.8751923689774657 124.07752241424285,0.9171019555661388 125.06598921112183,1.6432591821315583 125.24050052297159,1.4198361271176054</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>128.68824873262074,1.1323859724941059 128.63595218314137,0.2584858260061793 128.1201697124362,0.3564126651992865 127.96803429576889,-0.2520773250375328 128.37999881399972,-0.7800037573312864 128.10001590384232,-0.8999964331129746 127.69647464407504,-0.26659840251150513 127.39949018769377,1.0117215030925735 127.60051150930909,1.8106908227571807 127.93237755748751,2.174596258956555 128.00415612194084,1.628531398928331 128.59455936087548,1.540810655112864 128.68824873262074,1.1323859724941059</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>117.87562706916603,1.8276406925489113 118.99674726773819,0.9022191430660484 117.8118583517178,0.7842418481437221 117.47833865770608,0.10247467691702639 117.52164350796662,-0.8037232397532108 116.56004845587952,-1.487660821136231 116.5337968282752,-2.483517347832901 116.14808393764864,-4.012726332214015 116.00085778204911,-3.6570374487490085 114.86480309454456,-4.106984144714417 114.46865156459509,-3.495703627133821 113.75567182826413,-3.4391696102065197 113.25699425664757,-3.1187757299968553 112.06812625534067,-3.478392022316072 111.70329064336002,-2.9944422339026318 111.04824018762824,-3.049425957861189 110.223846063276,-2.9340324845534838 110.07093550012436,-1.5928740372824137 109.57194786991406,-1.3149065079844888 109.09187381392255,-0.4595065242570513 108.95265750532818,0.4153754744443461 109.06913618371405,1.3419339054376422 109.66326012577375,2.006466986494985 109.83022667850886,1.3381356876641917 110.51406090702713,0.7731314152009929 111.15913781132659,0.9764781762695094 111.79754845586044,0.9044412296546511 112.38025190638368,1.4101209578467575 112.8598091980522,1.4977900252299463 113.80584964401956,1.217548732911041 114.6213554220175,1.4306881778988867 115.13403730678525,2.8214818383862195 115.51907840379201,3.169238389494396 115.86551720587678,4.306559149590157 117.01521447150637,4.3060940616994685 117.88203494677018,4.137551377779488 117.31323245653354,3.234428208830579 118.04832970588538,2.287690131027361 117.87562706916603,1.8276406925489113</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>105.81765506390937,-5.852355645372413 104.71038414919153,-5.873284600450646 103.86821333213075,-5.037314955264975 102.58426069540693,-4.220258884298204 102.15617313030103,-3.614146009946765 101.39911339722508,-2.7997771134591716 100.90250288290017,-2.0502621394978604 100.14198082886062,-0.6503475887109573 99.26373986206025,0.1831415877246627 98.97001102091335,1.042882391764536 98.60135135294311,1.8235065779656168 97.69959760944991,2.453183905442117 97.1769421732499,3.3087905948986105 96.42401655475734,3.868859768077911 95.38087609251349,4.970782172053674 95.29302615761733,5.479820868344817 95.93686282754177,5.439513251157109 97.4848820332771,5.2463209090340115 98.36916914265569,4.268370266126368 99.14255862833582,3.5903496362409157 99.69399783732243,3.174328518075157 100.64143354696168,2.099381211755798 101.65801232300734,2.083697414555189 102.49827111207324,1.398700466310217 103.07684044801303,0.5613613956688539 103.83839603069836,0.10454173420866653 103.43764529827499,-0.7119458960028453 104.01078860882402,-1.0592115210042294 104.3699914896849,-1.0848430314210162 104.53949018760218,-1.7823715144967167 104.88789269411402,-2.3404253068166554 105.622111444117,-2.42884368246807 106.10859337771271,-3.0617766251789504 105.85744591677414,-4.305524997579724 105.81765506390937,-5.852355645372413</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </MultiGeometry>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1529">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1529</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;74&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Republic of India&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;India&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.16607922E9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3297000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2011.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3. Emerging region: BRIC&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4. Lower middle income&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;356&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;356&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IND&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Southern Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;South Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>81.33150035894491</longitude>
+                    <latitude>22.37893613974444</latitude>
+                    <altitude>5180497.567271633</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>4186113.760105938</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>79.5937037632538,22.925006407408503</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>77.83745079947457,35.494009507787766 78.91226891471322,34.32193634697579 78.81108646028574,33.50619802503242 79.20889163606859,32.994394639613716 79.17612877799553,32.48377981213771 78.45844648632601,32.61816437431273 78.73889448437401,31.515906073527063 79.7213668151071,30.88271474865473 81.11125613802932,30.183480943313402 80.4767212259174,29.72986522065534 80.08842451367627,28.79447011974014 81.05720258985203,28.416095282499043 81.99998742058497,27.925479234319994 83.30424889519955,27.36450572357556 84.6750179381738,27.234901231387536 85.25177859898338,26.726198431906344 86.02439293817918,26.63098460540857 87.2274719583663,26.397898057556077 88.06023766474982,26.41461538340249 88.17480431514092,26.81040517832595 88.04313276566123,27.445818589786825 88.12044070836987,27.876541652939594 88.73032596227856,28.086864732367516 88.81424848832056,27.299315904239364 88.83564253128938,27.098966376243762 89.74452762243885,26.719402981059957 90.37327477413407,26.87572418874288 91.21751264848643,26.808648179628022 92.03348351437509,26.83831045176356 92.10371178585974,27.452614040633208 91.69665652869668,27.771741848251665 92.50311893104364,27.89687632904645 93.41334760943269,28.640629380807226 94.56599043170294,29.277438055939985 95.40480228066464,29.03171662039213 96.11767866413103,29.452802028922466 96.58659061074749,28.83097951915434 96.24883344928779,28.411030992134442 97.32711388549004,28.26158274994634 97.40256147663614,27.882536119085444 97.0519885599681,27.69905894623315 97.1339990580153,27.083773505149964 96.41936567585097,27.264589341739224 95.12476769407496,26.5735720891323 95.1551534362626,26.001307277932085 94.60324913938538,25.162495428970402 94.55265791217164,24.675238348890336 94.10674197792507,23.85074087167348 93.3251876159428,24.078556423432204 93.28632693885928,23.043658352139005 93.06029422401463,22.70311066333557 93.16612755734837,22.278459580977103 92.67272098182556,22.041238918541254 92.14603478390681,23.627498684172593 91.86992760617132,23.624346421802784 91.70647505083211,22.985263983649187 91.15896325069973,23.50352692310439 91.46772993364368,24.072639471934792 91.91509280799443,24.130413723237112 92.37620161333481,24.976692816664965 91.79959598182208,25.147431748957317 90.87221072791212,25.132600612889547 89.92069258012185,25.26974986419218 89.83248091019962,25.96508209889548 89.35509402868729,26.014407253518073 88.56304935094977,26.446525580342723 88.2097892598025,25.768065700782714 88.93155398962308,25.238692328384776 88.30637251175602,24.866079413344206 88.08442223506242,24.501657212821925 88.69994022009092,24.23371491138856 88.52976972855379,23.631141872649167 88.87631188350309,22.87914642993783 89.03196129756623,22.055708319582976 88.88876590368542,21.690588487224748 88.20849734899522,21.703171698487807 86.97570438024027,21.49556163175521 87.03316857294887,20.743307806882413 86.49935102737379,20.151638495356607 85.0602657409097,19.4785788029711 83.94100589390001,18.302009792549725 83.18921715691785,17.67122142177898 82.19279218946592,17.016636053937816 82.19124189649719,16.556664130107848 81.69271935417748,16.310219224507904 80.79199913933014,15.951972357644493 80.32489586784388,15.89918488205835 80.02506920768644,15.136414903214147 80.2332735533904,13.835770778859981 80.28629357292186,13.006260687710835 79.8625468281285,12.056215318240888 79.85799930208682,10.35727509199711 79.340511509116,10.30885427493962 78.88534549348918,9.546135972527722 79.1897196796883,9.216543687370148 78.2779407083305,8.933046779816934 77.94116539908435,8.252959092639742 77.53989790233794,7.965534776232332 76.59297895702167,8.89927623131419 76.13006147655108,10.299630031775521 75.7464673196485,11.308250637248307 75.39610110870959,11.781245022015824 74.86481570831683,12.741935736537897 74.61671715688354,13.99258291264968 74.44385949086723,14.617221787977698 73.5341992532334,15.99065216721496 73.11990929554943,17.928570054592498 72.82090945830865,19.208233547436166 72.8244751321368,20.419503282141534 72.6305334817454,21.356009426351008 71.17527347197395,20.757441311114235 70.4704586119451,20.877330634031384 69.16413008003883,22.0892980005727 69.6449276060824,22.450774644454338 69.34959679553435,22.84317963306269 68.1766451353734,23.69196503345671 68.84259931831878,24.35913361256094 71.04324018746823,24.3565239527302 70.84469933460284,25.21510203704352 70.2828731627256,25.72222870533983 70.16892662952202,26.491871649678842 69.51439293811313,26.940965684511372 70.61649620960193,27.989196275335868 71.77766564320032,27.913180243434525 72.8237516620847,28.961591701772054 73.45063846221743,29.97641347911987 74.42138024282028,30.979814764931177 74.40592898956501,31.69263947196528 75.25864179881322,32.2711054550405 74.45155927927871,32.7648996038055 74.10429365427734,33.44147329358685 73.74994835805197,34.31769887952785 74.24020267120497,34.748887030571254 75.75706098826834,34.50492259372132 76.87172163280403,34.65354401299274 77.83745079947457,35.494009507787766</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1528">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1528</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;80&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;I&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italian Republic&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.8126212E7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1823000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2012.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1. Developed region: G7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1. High income: OECD&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IT&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;380&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;380&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;IT&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;ITA&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Europe&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Europe&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Southern Europe&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Europe &amp; Central Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>12.130624733827517</longitude>
+                    <latitude>42.01617678909988</latitude>
+                    <altitude>1870363.0451777803</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>1511351.444169459</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>12.219476487398472,43.47247610758603</coordinates>
+                    </Point>
+                    <MultiGeometry>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>15.520376010813834,38.23115509699147 15.160242954171736,37.44404551853782 15.309897902089006,37.1342194687318 15.09998823411945,36.6199872909954 14.335228712632016,36.996630967754754 13.82673261887993,37.1045313583802 12.431003859108813,37.61294993748382 12.570943637755136,38.12638113051969 13.741156447004585,38.03496552179536 14.76124922044616,38.143873602850505 15.520376010813834,38.23115509699147</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>9.210011834356266,41.20999136002422 9.809975213264977,40.5000088567661 9.669518670295673,39.177376410471794 9.21481774255949,39.240473334300134 8.80693566247973,38.90661774347848 8.428302443077115,39.17184703221662 8.38825320805094,40.378310858718805 8.15999840661766,40.95000722916379 8.709990675500109,40.89998444270523 9.210011834356266,41.20999136002422</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>12.376485223040845,46.76755910906988 13.806475457421556,46.50930613869119 13.698109978905478,46.016778062517375 13.937630242578336,45.591015936864665 13.141606479554298,45.73669179949542 12.328581170306308,45.381778062514854 12.383874952858605,44.88537425391908 12.261453484759159,44.600482082694015 12.589237094786483,44.091365871754476 13.526905958722494,43.58772736263791 14.029820997787027,42.76100779883248 15.142569614327954,41.955139675456905 15.926191033601896,41.96131500911574 16.169897088290412,41.740294908203424 15.889345737377795,41.5410822617182 16.785001661860576,41.179605617836586 17.519168735431208,40.87714345963224 18.376687452882578,40.35562490494266 18.480247023195403,40.168866278639825 18.2933850440281,39.81077444107325 17.738380161213286,40.2776710068303 16.869595981522338,40.44223460546385 16.448743116937322,39.79540070246648 17.1714896989715,39.42469981542072 17.052840610429342,38.902871202137305 16.635088331781844,38.8435724960824 16.100960727613057,37.98589874933418 15.684086948314501,37.90884918878703 15.68796268073632,38.214592800441864 15.891981235424709,38.750942491199226 16.109332309644316,38.96454702407769 15.718813510814641,39.544072374014945 15.413612501698822,40.04835683853517 14.998495721098237,40.17294871679093 14.70326826341477,40.604550279292624 14.060671827865264,40.78634796809544 13.627985060285397,41.188287258461656 12.88808190273042,41.25308950455562 12.10668257004491,41.70453481705741 11.191906365614187,42.35542531998968 10.511947869517797,42.931462510747224 10.200028924204048,43.920006822274615 9.702488234097814,44.03627879493132 8.88894616052687,44.36633616797954 8.428560825238577,44.23122813575242 7.850766635783202,43.76714793555524 7.435184767291844,43.69384491634918 7.549596388386163,44.12790110938482 7.007562290076663,44.25476675066139 6.749955275101712,45.02851797136759 7.096652459347837,45.333098863295874 6.802355177445662,45.70857982032868 6.843592970414562,45.99114655210067 7.273850945676685,45.77694774025076 7.7559920589598335,45.82449005795928 8.31662967289438,46.163642483090854 8.489952426801295,46.00515086525175 8.966305779667834,46.036931871111165 9.182881707403112,46.44021474871698 9.922836541390353,46.31489940040919 10.363378126678668,46.483571275409844 10.442701450246602,46.893546250997446 11.048555942436508,46.7513585475464 11.164827915093326,46.94157949481274 12.153088006243081,47.11539317482644 12.376485223040845,46.76755910906988</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </MultiGeometry>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1527">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1527</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;83&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;J&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.27078679E8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4329000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2010.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1. Developed region: G7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1. High income: OECD&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JP&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;392&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;392&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JP&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;JPN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Eastern Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;East Asia &amp; Pacific&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>136.65896942271738</longitude>
+                    <latitude>38.56514711289961</latitude>
+                    <altitude>2628798.821458607</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>2124207.3326276583</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>136.88194731598358,36.01907536594399</coordinates>
+                    </Point>
+                    <MultiGeometry>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>134.63842817600388,34.149233710256425 134.7663790223585,33.80633474378368 134.20341596897086,33.20117788342964 133.7929500672765,33.5219851750976 133.28026818250888,33.28957042086495 133.01485802625788,32.70456736910478 132.3631148621927,32.98938202568138 132.3711763856302,33.463642483040076 132.9243725933148,34.06029857028204 133.49296837782222,33.9446208765967 133.90410607313638,34.36493113864262 134.63842817600388,34.149233710256425</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>140.9763875673053,37.14207428644016 140.59976972876214,36.34398346612454 140.77407433488267,35.84287710219024 140.25327925024513,35.13811391859366 138.97552778539622,34.66760000257611 137.21759891169123,34.60628591566186 135.7929830262689,33.46480520276663 135.12098270074543,33.84907115328906 135.07943484918272,34.59654490817482 133.340316196832,34.37593821872076 132.15677086805132,33.90493337659652 130.98614464734348,33.885761420216284 132.00003624891005,33.149992377244615 131.33279015515737,31.450354519164847 130.68631798718596,31.029579169228242 130.20241987520498,31.418237616495418 130.44767622286216,32.319474595665724 129.8146916037189,32.61030955660439 129.40846316947258,33.29605581311759 130.35393517468466,33.6041507024417 130.87845096244715,34.232742824840045 131.88422936414392,34.74971385348792 132.61767296766251,35.43339305270942 134.6083008159778,35.73161774346582 135.67753787652893,35.527134100886826 136.72383060114245,37.30498423924038 137.3906116070045,36.827390651998826 138.85760216690628,37.82748464614346 139.4264046571429,38.21596222589764 140.0547900738121,39.438807481436385 139.88337934789988,40.563312486323696 140.30578250545372,41.19500519465956 141.3689734234267,41.37855988216029 141.9142631369705,39.991616115878685 141.884600864835,39.180864569651504 140.9594893739458,38.17400096287659 140.9763875673053,37.14207428644016</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                        <Polygon>
+                            <outerBoundaryIs>
+<LinearRing>
+    <tessellate>1</tessellate>
+    <coordinates>143.9101619813795,44.17409983985374 144.61342654843966,43.960882880217525 145.3208252300831,44.384732977875444 145.54313724180278,43.262088324550604 144.0596618999999,42.98835826270056 143.18384972551732,41.9952147486992 141.61149092017249,42.678790595056086 141.06728641170665,41.584593817708 139.95510623592108,41.569555975911044 139.81754357315995,42.5637588567744 140.31208703019323,43.33327261003265 141.38054894426003,43.388824774746496 141.67195234595394,44.772125352551484 141.967644891528,45.55148346616136 143.14287031470982,44.510358384776964 143.9101619813795,44.17409983985374</coordinates>
+</LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </MultiGeometry>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1526">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1526</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;125&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PE&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;formal_en&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Republic of Peru&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.9546963E7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;247300.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2007.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5. Emerging region: G20&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3. Upper middle income&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PE&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;604&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;604&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PE&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;PER&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;South America&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Americas&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;South America&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Latin America &amp; Caribbean&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-74.87110643665608</longitude>
+                    <latitude>-9.258785105512615</latitude>
+                    <altitude>3031400.6008359804</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>2449530.687500376</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>-74.39180581684721,-9.19156290513455</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-69.59042375352405,-17.580011895419332 -69.85844356960587,-18.092693780187012 -70.37257239447771,-18.34797535570887 -71.37525021023693,-17.773798516513857 -71.46204077827113,-17.363487644116383 -73.44452958850042,-16.359362888252996 -75.23788265654144,-15.265682875227782 -76.00920508492995,-14.649286390850321 -76.42346920439775,-13.823186944232432 -76.25924150257417,-13.535039157772943 -77.10619238962184,-12.22271615972082 -78.09215287953464,-10.377712497604065 -79.03695309112695,-8.386567884965892 -79.44592037628485,-7.93083342858386 -79.76057817251005,-7.194340915560084 -80.53748165558608,-6.541667575713717 -81.24999630402642,-6.136834405139183 -80.92634680858244,-5.690556735866565 -81.41094255239946,-4.7367648250554595 -81.09966956248937,-4.036394138203697 -80.30256059438722,-3.4048564591647126 -80.18401485870967,-3.8211617977080437 -80.46929460317695,-4.0592867977089995 -80.44224199087216,-4.425724379090674 -80.02890804718561,-4.3460909969288934 -79.62497921417618,-4.454198093283495 -79.20528906931773,-4.959128513207389 -78.63989722361234,-4.547784112164074 -78.45068396677564,-3.873096612161376 -77.83790483265861,-3.003020521663103 -76.63539425322672,-2.6086776668438176 -75.54499569365204,-1.5616097957458803 -75.23372270374195,-0.9114169246495294 -75.37322323271385,-0.1520317521204504 -75.10662451852008,-0.05720549886486026 -74.44160051135597,-0.5308200008198867 -74.12239518908906,-1.002832533373848 -73.6595035468346,-1.2604912247811342 -73.07039221870724,-2.3089543595509525 -72.32578650581365,-2.434218031426454 -71.7747607082854,-2.169789727388938 -71.41364579942979,-2.3428024227021282 -70.81347571479196,-2.2568645158007428 -70.04770850287485,-2.725156345229699 -70.69268205430971,-3.742872002785859 -70.39404395209499,-3.7665914852078255 -69.89363521999663,-4.2981869441943275 -70.7947688463023,-4.251264743673303 -70.92884334988358,-4.401591485210368 -71.74840572781655,-4.593982842633011 -72.89192765978726,-5.274561455916981 -72.9645072089412,-5.7412513159448935 -73.21971126981461,-6.089188734566078 -73.1200274319236,-6.629930922068239 -73.72448666044164,-6.91859547285064 -73.7234014553635,-7.340998630404414 -73.98723548042966,-7.523829847853065 -73.57105933296707,-8.424446709835834 -73.01538265653255,-9.032833347208062 -73.22671342639016,-9.462212823121234 -72.56303300646564,-9.520193780152717 -72.18489071316985,-10.053597914269432 -71.30241227892154,-10.079436130415374 -70.48189388699117,-9.490118096558845 -70.54868567572841,-11.009146823778465 -70.0937522040469,-11.123971856331012 -69.52967810736496,-10.951734307502194 -68.66507971868963,-12.561300144097173 -68.88007951523997,-12.899729099176653 -68.92922380234954,-13.602683607643009 -68.9488866848366,-14.453639418193283 -69.33953467474701,-14.953195489158832 -69.16034664577495,-15.323973890853019 -69.38976416693471,-15.660129082911652 -68.9596353827533,-16.50069793057127 -69.59042375352405,-17.580011895419332</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1525">
+                <name>deathslvl4_tsunami.fid-7084bc48_155bcc12392_-1525</name>
+                <description>&lt;h4&gt;deathslvl4_tsunami&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;164&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;scalerank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;featurecla&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Admin-0 country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;labelrank&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sovereignt&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;sov_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;level&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Sovereign country&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;admin&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geou_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;geounit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gu_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_dif&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subunit&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;su_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_diff&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_long&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;B77&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;brk_name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;postal&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TW&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;note_brk&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Self admin.; Claimed by China&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_sort&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taiwan&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor7&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor8&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor9&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;mapcolor13&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.2974347E7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_md_est&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;712000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;pop_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;lastcensus&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;gdp_year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;economy&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2. Developed region: nonG7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;income_grp&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2. High income: nonOECD&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wikipedia&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TW&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;iso_n3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;158&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;un_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-099&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a2&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;wb_a3&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;woe_id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_is&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_us&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TWN&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;adm0_a3_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;continent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_un&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;subregion&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Eastern Asia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;region_wb&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;East Asia &amp; Pacific&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;long_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;abbrev_len&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tiny&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-99.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;homepart&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>121.0169992657692</longitude>
+                    <latitude>23.635742507363403</latitude>
+                    <altitude>513149.3633952291</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>414651.60116457555</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>ff000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>ffc04040</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>120.97480073748623,23.740964979784938</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>121.77781782438993,24.3942735865194 121.17563235889274,22.790857245367167 120.74707970589623,21.970571397382113 120.22008344938368,22.81486094816674 120.1061885926124,23.556262722258236 120.69467980355225,24.538450832613737 121.49504438688878,25.295458889257386 121.95124393116146,24.997595933527037 121.77781782438993,24.3942735865194</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
