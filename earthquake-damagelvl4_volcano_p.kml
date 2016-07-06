@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>-155.68275361401692</longitude>
+            <latitude>24.821254316756196</latitude>
+            <altitude>1.1432195050297862E7</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>9237813.238366412</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>earthquake:damagelvl4_volcano</name>
+            <LookAt>
+                <longitude>-155.68275361401692</longitude>
+                <latitude>24.821254316756196</latitude>
+                <altitude>1.1432195050297862E7</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>9237813.238366412</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa7">
+                <name>damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa7</name>
+                <description>&lt;h4&gt;damagelvl4_volcano&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;111&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1631&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;16&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Vesuvius&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;40.821&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.426&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1281&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Complex volcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,E,M&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>14.426000000000002</longitude>
+                    <latitude>40.821</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>14.426,40.821</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa6">
+                <name>damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa6</name>
+                <description>&lt;h4&gt;damagelvl4_volcano&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;172&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1754&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taal&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Luzon-Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.002&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120.993&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;400&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;W,T&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.99300000000001</longitude>
+                    <latitude>14.00200000000001</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.993,14.002</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa5">
+                <name>damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa5</name>
+                <description>&lt;h4&gt;damagelvl4_volcano&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;215&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1815&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Tambora&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Lesser Sunda Is&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-8.25&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;118.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2850&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,W&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;117000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>118.0</longitude>
+                    <latitude>-8.25</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>118.0,-8.25</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa4">
+                <name>damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa4</name>
+                <description>&lt;h4&gt;damagelvl4_volcano&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;540&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1980&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;18&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;St. Helens&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;US-Washington&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United States&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;46.2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-122.18&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2549&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,M,T&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;57&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;57&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2000.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-122.17999999999998</longitude>
+                    <latitude>46.2</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-122.18,46.2</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa3">
+                <name>damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa3</name>
+                <description>&lt;h4&gt;damagelvl4_volcano&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;588&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1994&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Rabaul&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;New Britain-SW Pac&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Papua New Guinea&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-4.271&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;152.203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;688&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Pyroclastic shield&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;T&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;35.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>152.203</longitude>
+                    <latitude>-4.271000000000001</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>152.203,-4.271</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa2">
+                <name>damagelvl4_volcano.fid-7084bc48_155bcc12392_-fa2</name>
+                <description>&lt;h4&gt;damagelvl4_volcano&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;639&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2010&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;26&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Merapi&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.542&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;110.442&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2947&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;324&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;427&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;600.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;324&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;427&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;600.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>110.442</longitude>
+                    <latitude>-7.542000000000002</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>110.442,-7.542</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
