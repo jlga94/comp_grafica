@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>-172.05362967690579</longitude>
+            <latitude>26.25260506494137</latitude>
+            <altitude>1.1315060140477125E7</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>9143162.087309584</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>earthquake:deathslvl4_volcano_p</name>
+            <LookAt>
+                <longitude>-172.05362967690579</longitude>
+                <latitude>26.25260506494137</latitude>
+                <altitude>1.1315060140477125E7</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>9143162.087309584</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1250">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1250</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;101&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1600&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Huaynaputina&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Peru&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-16.608&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-70.85&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4850&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;S&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1400&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1400&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-70.85</longitude>
+                    <latitude>-16.60800000000002</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-70.85,-16.608</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124f">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124f</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;111&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1631&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;16&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Vesuvius&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;40.821&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.426&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1281&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Complex volcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,E,M&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>14.426000000000002</longitude>
+                    <latitude>40.821</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>14.426,40.821</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124e">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124e</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;128&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1672&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Merapi&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.542&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;110.442&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2947&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>110.442</longitude>
+                    <latitude>-7.542000000000002</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>110.442,-7.542</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124d">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124d</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;181&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1772&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Papandayan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.32&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;107.73&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2665&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;A&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2957&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2957&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>107.73</longitude>
+                    <latitude>-7.319999999999993</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>107.73,-7.32</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124c">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124c</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;193&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1783&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;26&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Asama&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Honshu-Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Japan&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;36.4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;138.53&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2560&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Complex volcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;F,P,I&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1491&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1491&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>138.53</longitude>
+                    <latitude>36.4</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>138.53,36.4</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124b">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124b</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;194&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1784&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Grimsvotn&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Iceland-NE&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Iceland&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;64.42&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-17.33&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1725&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Caldera&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;I&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9350&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9350&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-17.330000000000013</longitude>
+                    <latitude>64.42</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-17.33,64.42</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124a">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-124a</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;199&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1790&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Kilauea&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Hawaiian Is&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;United States&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19.425&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-155.292&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1222&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Shield volcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5405&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5405&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-155.29199999999997</longitude>
+                    <latitude>19.424999999999997</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-155.292,19.425</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1249">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1249</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;214&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1814&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Mayon&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Luzon-Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13.257&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;123.685&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2462&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,M,E&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1200&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1200&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>123.685</longitude>
+                    <latitude>13.257000000000005</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>123.685,13.257</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1248">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1248</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;215&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1815&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Tambora&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Lesser Sunda Is&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-8.25&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;118.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2850&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,W&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;117000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>118.0</longitude>
+                    <latitude>-8.25</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>118.0,-8.25</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1247">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1247</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;224&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1822&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Galunggung&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.25&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;108.05&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2168&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,M&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4011&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4011&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.05</longitude>
+                    <latitude>-7.250000000000028</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>108.05,-7.25</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1246">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1246</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;26&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;79&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;24&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Vesuvius&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Italy&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;40.821&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.426&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1281&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Complex volcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,T&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3500&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3500&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>14.426000000000002</longitude>
+                    <latitude>40.821</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>14.426,40.821</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1245">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1245</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;32&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;450&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Ilopango&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;El Salvador&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;El Salvador&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13.672&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-89.053&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;450&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Caldera&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;30000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;30000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-89.053</longitude>
+                    <latitude>13.671999999999997</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-89.053,13.672</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1244">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1244</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;349&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1902&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;24&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Santa Maria&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Guatemala&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Guatemala&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.756&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-91.552&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3772&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;T,G&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1500&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1500&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-91.55200000000002</longitude>
+                    <latitude>14.756</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-91.552,14.756</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1243">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1243</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;363&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1911&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;30&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Taal&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Luzon-Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14.002&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120.993&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;400&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,W&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1335&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;199&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;543&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1335&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;199&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;543&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>120.99300000000001</longitude>
+                    <latitude>14.00200000000001</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>120.993,14.002</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1242">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1242</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;386&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1919&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Kelut&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.93&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;112.308&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1731&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;M&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5110&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5110&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>112.308</longitude>
+                    <latitude>-7.930000000000007</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>112.308,-7.93</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1241">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1241</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;409&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1930&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;25&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Merapi&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.542&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;110.442&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2947&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1369&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1109&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1369&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1109&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_houses_destroyed_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>110.442</longitude>
+                    <latitude>-7.542000000000002</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>110.442,-7.542</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1240">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-1240</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;447&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1951&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;15&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Lamington&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;New Guinea&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Papua New Guinea&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-8.95&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;148.15&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1680&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D2&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2942&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2942&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>148.15</longitude>
+                    <latitude>-8.950000000000031</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>148.15,-8.95</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123f">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123f</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;481&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1963&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;17&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;tsu&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;TSU&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Agung&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Lesser Sunda Is&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-8.342&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;115.508&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3142&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,T,M,A&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1028&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;missing_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;624&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1028&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_missing_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;624&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>115.508</longitude>
+                    <latitude>-8.341999999999999</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>115.508,-8.342</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123e">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123e</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;546&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1982&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;28&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;eq&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;EQ&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Chichon, El&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Mexico&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Mexico&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;17.36&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-93.228&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1150&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Tuff cone&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;P,T,M,S&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1879&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;missing&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1755&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;missing_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1879&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_missing&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1755&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_missing_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_millions_dollars&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3.3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.0&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-93.22799999999995</longitude>
+                    <latitude>17.36</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-93.228,17.36</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123d">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123d</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;556&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1985&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Ruiz&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Colombia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Colombia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4.895&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-75.322&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5321&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;M&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23080&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23080&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>-75.322</longitude>
+                    <latitude>4.894999999999996</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>-75.322,4.895</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123c">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123c</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;558&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1986&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;21&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Oku Volc Field&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Africa-W&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Cameroon&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6.25&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10.5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3011&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Maar&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Radiocarbon&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D5&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;G&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1700&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1700&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_injuries_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>10.5</longitude>
+                    <latitude>6.25</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>10.5,6.25</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123b">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123b</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;621&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2006&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;month&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;day&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Mayon&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Luzon-Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Philippines&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13.257&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;123.685&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2462&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;agent&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;m&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1266&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1266&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_damage_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1.0&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>123.685</longitude>
+                    <latitude>13.257000000000005</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>123.685,13.257</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123a">
+                <name>deathslvl4_volcano_p.fid-7084bc48_155bcc12392_-123a</name>
+                <description>&lt;h4&gt;deathslvl4_volcano_p&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;92&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;year&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1586&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;name&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Kelut&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;location&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Java&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;country&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Indonesia&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;latitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.93&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;longitude&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;112.308&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;elevation&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1731&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;type&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Stratovolcano&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;status&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;Historical&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;time&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;D1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;vei&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10000&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;total_deaths_description&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>112.308</longitude>
+                    <latitude>-7.930000000000007</latitude>
+                    <altitude>0.0</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>0.0</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <scale>0.375</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://localhost:8080/geoserver/kml/icon/point?0.0.0=</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>0.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                </Style>
+                <Point>
+                    <coordinates>112.308,-7.93</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
